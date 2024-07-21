@@ -1,0 +1,11 @@
+identifier: lfydu956vc6amcy9
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: try2my-blog
+homeFolder: C:\Users\Vadim\Desktop\bookApp\FirstAppV16 Declaration\try2my-blog
+distFolder: dist/try2my-blog
+outDir: C:\Users\Vadim\Desktop\bookApp\FirstAppV16 Declaration\try2my-blog\dist\static
+handle404: ''
+allowErrorCollect: true
